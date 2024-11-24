@@ -12,3 +12,4 @@ Proyecto limpieza Pilar
 - gasa
 - agua oxit
 - 
+- [ ] coso
